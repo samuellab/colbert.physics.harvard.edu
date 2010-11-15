@@ -17,3 +17,13 @@ http://blueprintcss.org
 .footer {
 text-align:center;
 }
+
+.nav{
+float:left;
+margin-right:1.5em;
+font-size:150%;
+}
+hr#bottomheader {
+margin:0 0 1em;
+
+}
