@@ -12,7 +12,9 @@ http://blueprintcss.org
 
 ------------------------------------*/
 
-
+p{
+font-size:130%;
+}
 
 .right  {
 margin-left: .5em;
