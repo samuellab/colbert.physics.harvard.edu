@@ -22,19 +22,19 @@
 <div class ="container">
 
 <hr class="space" />
-<h1 class="left">CoLBeRT</h1> 
+<h1 class="left"><a class="nomarkup" href="index.php">CoLBeRT</a></h1> 
 <img src="images/wormInColbert.png" class="left">
 <h2 class="alt left "><strong>Co</strong>ntrolling <strong>L</strong>ocomotion and <strong>Be</strong>havior in <strong>R</strong>eal-<strong>T</strong>ime</h2>
 
 
 
 <hr />
-<h4 class="nav"><a href="/index.php">Home</a></h4>
-<h4 class="nav"><a href="/images.php">Images</a></h4>
-<h4 class="nav"><a href="/videos.php">Videos</a></h4>
-<h4 class="nav"><a href="/code.php">Code</a></h4>
-<h4 class="nav"><a href="/links.php">Links</a></h4>
-<h4 class="nav"><a href="/publications.ph">Publications</a></h4>
+<h4 class="nav"><a href="index.php">Home</a></h4>
+<h4 class="nav"><a href="images.php">Images</a></h4>
+<h4 class="nav"><a href="videos.php">Videos</a></h4>
+<h4 class="nav"><a href="code.php">Code</a></h4>
+<h4 class="nav"><a href="links.php">Links</a></h4>
+<h4 class="nav"><a href="publications.ph">Publications</a></h4>
 <h4 class="nav right"><a href="http://www.harvard.edu">Harvard</a></h4>
 
 <h4 class="nav right"><a href="http://worms.physics.harvard.edu/">Samuel Lab</a></h4>

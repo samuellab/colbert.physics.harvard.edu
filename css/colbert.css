@@ -45,3 +45,16 @@ margin:0 0 1em;
 #mainpanel{
 text-align:justify;
 }
+
+.video {
+text-align:center;
+}
+
+a.nomarkup{
+text-decoration:none;
+color:#111111;
+}
+
+a.nomarkup:hover{
+text-decoration:underline;
+}
