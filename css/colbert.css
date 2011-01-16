@@ -12,8 +12,8 @@ http://blueprintcss.org
 
 ------------------------------------*/
 
-p{
-font-size:130%;
+p,ul {
+	font-size:130%;
 }
 
 .right  {
@@ -46,7 +46,7 @@ margin:0 0 1em;
 text-align:justify;
 }
 
-.video {
+.image, .video {
 text-align:center;
 }
 
