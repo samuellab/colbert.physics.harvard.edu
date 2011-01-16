@@ -33,7 +33,7 @@ The CoLBeRT project is dedicated to its namesake, <a href="http://colbertnation.
 <h3> CoLBeRT in Action</h3>
 
 <iframe   src="http://player.vimeo.com/video/16933869?title=0&byline=0&portrait=0&color=ff9933" width="250" height="200" frameborder="0"></iframe>
-Blue light causes the worm to experience the sensation touch, and so it recoils. <a href="videos.php#16933869">Full Size</a>. Download: <a href="vidoes/S7.mp4">.mp4</a>. <a href="vidoes.php">More videos</a>.
+Blue light causes the worm to experience the sensation touch, and so it recoils. <a href="vidoes.php">More videos</a>.
 
 </div>
 

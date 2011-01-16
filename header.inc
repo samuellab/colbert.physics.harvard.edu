@@ -30,12 +30,12 @@
 
 <hr />
 <h4 class="nav"><a href="/index.php">Home</a></h4>
-<h4 class="nav"><a href="/">Images</a></h4>
+<h4 class="nav"><a href="/images.php">Images</a></h4>
 <h4 class="nav"><a href="/videos.php">Videos</a></h4>
-<h4 class="nav"><a href="/">Code</a></h4>
-<h4 class="nav"><a href="/">Links</a></h4>
-<h4 class="nav"><a href="/">Publications</a></h4>
-<h4 class="nav right"><a href="http://www.fas.harvard.edu">Harvard</a></h4>
+<h4 class="nav"><a href="/code.php">Code</a></h4>
+<h4 class="nav"><a href="/links.php">Links</a></h4>
+<h4 class="nav"><a href="/publications.ph">Publications</a></h4>
+<h4 class="nav right"><a href="http://www.harvard.edu">Harvard</a></h4>
 
 <h4 class="nav right"><a href="http://worms.physics.harvard.edu/">Samuel Lab</a></h4>
 <hr id="bottomheader" />
