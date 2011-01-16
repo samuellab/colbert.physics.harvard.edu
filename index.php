@@ -7,7 +7,7 @@
 <div id="mainpanel" class ="span-16 append-1">
 <h2>An optogenetic technique for neuroscience that uses lasers to manipulate neurocircuits in moving animals</h2> 
 
-<p>CoLBeRT is a new technique for neuroscience developed by the <a href="http://worms.physics.harvard.edu"/>Samuel Lab</a> at Harvard University's <a href="http://cbs.fas.harvard.edu/">Center For Brain Science</a> that allows researchers to commandeer the nervous system of a moving animal without wires or electrodes. The system has been used thus far on the microscopic nematode <em>C. elegans</em>. </p>
+<p>CoLBeRT is a new technique for neuroscience developed by the <a href="http://worms.physics.harvard.edu"/>Samuel Lab</a> at Harvard University's <a href="http://cbs.fas.harvard.edu/">Center For Brain Science</a> that allows researchers to commandeer the nervous system of a moving animal without wires or electrodes. The system has been used thus far on the microscopic nematode <em>C. elegans</em>. See <a href="http://www.sciencenews.org/view/generic/id/68860/description/Making_a_worm_do_more_than_squirm#video" target="_blank">the recent article</a> about the CoLBeRT system in Science News!</p>
 
 <a href="images/colbert_schematic.png"><img class="left" src="images/colbert_schematic.png" width="400px"></a>
 
