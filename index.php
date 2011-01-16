@@ -9,7 +9,7 @@
 
 <p>CoLBeRT is a new technique for neuroscience developed by the <a href="http://worms.physics.harvard.edu"/>Samuel Lab</a> at Harvard University's <a href="http://cbs.fas.harvard.edu/">Center For Brain Science</a> that allows researchers commandeer the nervous system of a moving animal without wires or electrodes. The system has been used thus far on the microscopic nematode <em>C. elegans</em>. </p>
 
-<img class="left" src="images/colbert_schematic.png" width="400px">
+<a href="images/colbert_schematic.png"><img class="left" src="images/colbert_schematic.png" width="400px"></a>
 
 <p>Scientists are using CoLBeRT to understand how a handful of neurons can work together in an animal to generate behavior. The nematode <em>C. elegans</em> is an ideal organism to study because it  has only 302 neurons and it is easy to modify genetically. For comparison, a human being has roughly 100 billion neurons. The CoLBeRT system uses nematodes that express an extra gene for a light-sensitive ion channel protein, such as Channelrhodopsin or Halorhodopsin. This extra protein is similar to the protein in a human's eye. When added to the worm's neurons, these proteins makes the worm's neurons sensitive to different colors of light. The CoLBeRT system tracks the worm as it moves and shines laser light on specific neurons as the worm is moving to stimulate or inhibit those neurons. </p>
 
