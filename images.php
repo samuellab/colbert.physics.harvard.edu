@@ -43,7 +43,7 @@ Lenses and mirrors are required to shine laser light onto the digital micromirro
 
 <hr class="space">
 <h2>Lasers</h2>
-div class="image">
+<div class="image">
 <a href="images/fullres/CoLBeRT_green3.jpg"><img class="image" src="images/CoLBeRT_green3_small.jpg"></a>
 </div>
 <p> The system has three lasers, blue, green and purple. The green is shown. Photo by Elizabeth Kane.</p>
