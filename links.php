@@ -16,9 +16,22 @@
 
 <h2>Harvard</h2>
 <ul>
+<li><a href="http://worms.physics.harvard.edu">Samuel Lab</a></li>
 <li><a href="http://physics.harvard.edu/" target="_blank">Department of Physics</a></li>
 <li><a href="http://www.fas.harvard.edu/~biophys/" target="_blank">Graduate Program in Biophysics</a></li>
 <li><a href="http://cbs.fas.harvard.edu/" target="_blank">Center for Brain Science</a></li>
+</ul>
+
+<h2>Similar work</h2>
+<ul>
+<li>Jeff Stirman at Georgia Tech has <a href="http://www.nature.com/nmeth/journal/vaop/ncurrent/abs/nmeth.1555.html" target="_blank">developed a similar system</a> that came out back to back in Nature Methods.</a>
+
+</ul>
+
+<h2>Optogenetics</h2>
+<ul>
+<li><a href="http://syntheticneurobiology.org/">Boyden Lab</a> (MIT)</li>
+<li><a href="http://www.stanford.edu/group/dlab/">Deisseroth Lab</a> (Stanford)</li>
 </ul>
 
 <h2>C. elegans resources</h2>

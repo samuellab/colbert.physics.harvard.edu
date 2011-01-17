@@ -16,8 +16,10 @@
 
 </ul>
 
-
-
+<h2>Around the web</h2>
+<ul>
+<li>Slashdot, <a href="http://science.slashdot.org/story/11/01/16/2124210/Remote-Control-Worms-With-Laser-Light-Using-FOSS" target="_blank">Remote Control Worms With Laser Light Using FOSS</a></li>
+</ul>>
 </div>
 <?php
 include("footer.inc");
