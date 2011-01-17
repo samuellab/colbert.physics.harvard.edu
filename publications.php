@@ -5,7 +5,7 @@
 <div id="mainpanel" class ="span-2323 append-1">
 <h2>Journal Articles</h2>
 <ul>
-<li>Andrew M Leifer, Christopher Fang-Yen, Marc Gershow, Mark J Alkema, & Aravinthan D.T. Samuel, "Optogenetic manipulation of neural activity in freely moving <i>Caenorhabditis elegans</i>", <i>Nature Methods</i>, advanced online publication, 16 January 2011.<a href="media/leifer_et_al_2011.pdf">[ PDF ]</a></li>
+<li>Andrew M Leifer, Christopher Fang-Yen, Marc Gershow, Mark J Alkema, & Aravinthan D.T. Samuel, "<a href="http://www.nature.com/doifinder/10.1038/nmeth.1554" target="_blank">Optogenetic manipulation of neural activity in freely moving <i>Caenorhabditis elegans</i></a>", <i>Nature Methods</i>, advanced online publication, 16 January 2011. [<a href="media/leifer_et_al_2011.pdf"> PDF </a>]</li>
 </ul>
 
 <h2>In the popular press</h2>
@@ -19,7 +19,7 @@
 <h2>Around the web</h2>
 <ul>
 <li>Slashdot, <a href="http://science.slashdot.org/story/11/01/16/2124210/Remote-Control-Worms-With-Laser-Light-Using-FOSS" target="_blank">Remote Control Worms With Laser Light Using FOSS</a></li>
-</ul>>
+</ul>
 </div>
 <?php
 include("footer.inc");
