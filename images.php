@@ -21,14 +21,14 @@ Lenses and mirrors are required to shine laser light onto the digital micromirro
 <hr class="space">
 <img class="image" src="images/segmentedworm.jpg">
 <p><a href="code.php" target="_blank">MindControl</a> software segments the worm into 100 sectors.</p> 
-<hr class="space">
+<hr class="space">	
 
 <h2>In Action</h2>
-<img class="image" src="images/ALM_stimulus.jpg">
+<a href="images/ALM_stimulus.jpg"><img class="image" src="images/ALM_stimulus.jpg" width="250"></a>
 <p>Blue laser light is shining on a single pair of mechanosenory neurons in this worm. </p>
 
 <hr class="space">
-<h2>Lasers<h2>
+<h2>Lasers</h2>
 <a href="images/fullres/CoLBeRT_green3.jpg"><img class="image" src="images/CoLBeRT_green3_small.jpg"></a>
 <p> The system has three lasers, blue, green and purple. The green is shown.</p>
 
