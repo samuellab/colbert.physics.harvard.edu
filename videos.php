@@ -27,7 +27,7 @@ When green laser light shines on the worm, its muscles relax and the worm paraly
 <a name="S3"></a>
 <iframe src="http://player.vimeo.com/video/16932387?byline=0&amp;portrait=0&amp;color=ff9933" width="512" height="384" frameborder="0"></iframe>
 </div>
-<p>This worm expresses Halorhodopsin in its muscle cells (<i>Pmyo-3::Halo::CFP</i>). When green laser light shines on the worm's neck the muscles in that area are induced to relax. Note also how the worm's tail relaxes to a neutral position even as the worm's head continues to make bending waves. The Samuel Lab is interested in studying how bending waves are propogated from head to tail.
+<p>This worm expresses Halorhodopsin in its muscle cells (<i>Pmyo-3::Halo::CFP</i>). When green laser light shines on the worm's neck the muscles in that area are induced to relax. Note also how the worm's tail relaxes to a neutral position even as the worm's head continues to make bending waves. The Samuel Lab is interested in studying how bending waves are propagated from head to tail.
 </p>
 
 <h2>Disrupting locomotion by inhibiting motor neurons</h2>
@@ -35,7 +35,7 @@ When green laser light shines on the worm, its muscles relax and the worm paraly
 <a name="S4"></a>
 <iframe src="http://player.vimeo.com/video/16932568?byline=0&amp;portrait=0&amp;color=ff9933" width="512" height="384" frameborder="0"></iframe>
 </div>
-<p>This worm expresses Halorhodopsin in its motor neurons (<i>Punc-17::Halo::CFP</i>). When green laser light shines on a small anterior region of the worm's ventral nerve cord, it inhibits those motor neurons and the worm's tail becomes paralyzed.  Note how the worm's tail retains its shape when the light is applied and it does not relax to neutral. The Samuel Lab is interested in understanding how these motor neurons propogate bending waves from the worm's head to tail.</p> 
+<p>This worm expresses Halorhodopsin in its motor neurons (<i>Punc-17::Halo::CFP</i>). When green laser light shines on a small anterior region of the worm's ventral nerve cord, it inhibits those motor neurons and the worm's tail becomes paralyzed.  Note how the worm's tail retains its shape when the light is applied and it does not relax to neutral. The Samuel Lab is interested in understanding how these motor neurons propagate bending waves from the worm's head to tail.</p> 
 
 <h2>Shutting down motor neurons in the ventral nerve cord</h2>
 <div class = "video">
@@ -50,7 +50,7 @@ When green laser light shines on the worm, its muscles relax and the worm paraly
 <a name="S6"></a>
 <iframe src="http://player.vimeo.com/video/16933869?byline=0&amp;portrait=0&amp;color=ff9933" width="512" height="384" frameborder="0"></iframe>
 </div>
-<p>This worm expresses Channelrhodopsin in its mechanosensory neurons (<i>Pmec-4::ChR2::GFP</i>). When blue light shines on the worm's anterior it stimulates the worm's anterior touch receptors (ALM and AVM). The worm experiences the sensation of being touched and the worm responds by reversing. The Samueal Lab is interested in explorying the neurocircuitry underlying this touch response. </p>
+<p>This worm expresses Channelrhodopsin in its mechanosensory neurons (<i>Pmec-4::ChR2::GFP</i>). When blue light shines on the worm's anterior it stimulates the worm's anterior touch receptors (ALM and AVM). The worm experiences the sensation of being touched and the worm responds by reversing. The Samual Lab is interested in exploring the neurocircuitry underlying this touch response. </p>
 
 <h2>Inducing the sensation of touch by stimulating a single neuron pair</h2>
 <div class="video">
