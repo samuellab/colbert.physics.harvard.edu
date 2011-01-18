@@ -11,10 +11,19 @@
 The CoLBeRT system can aquire an image of the worm , identify target neurons and direct its digital micromirror device to shine light on those targets in less than 20ms closed-loop. </p>
 
 <hr class="space">
+<h2>Setup</h2>
+<div class="image">
+<a href="images/fullres/CoLBeRT_whole_setup.jpg"><img class="image" src="images/CoLBeRT_whole_setup_small.jpg"></a>
+</div>
+<p>
+The worm sits in a chamber on the microscope (center). The optics are located in the black box on the optics bench (right)		. Computer software (left) controls the entire apparatus.
+</p>
 
+
+<hr class="space">
 <h2>Optics</h2>
 <div class="image">
-<a href="images/fullres/CoLBeRT_green1.jpg"><img class="image" src="images/CoLBeRT_green1_small.jpg"></a>
+<a href="images/fullres/CoLBeRT_green1.JPG"><img class="image" src="images/CoLBeRT_green1_small.jpg"></a>
 </div>
 <p>
 Lenses and mirrors are required to shine laser light onto the digital micromirror device (on the right) before heading into the microscope (not pictured on left). Photo by Elizabeth Kane.</p>
@@ -44,7 +53,7 @@ Lenses and mirrors are required to shine laser light onto the digital micromirro
 <hr class="space">
 <h2>Lasers</h2>
 <div class="image">
-<a href="images/fullres/CoLBeRT_green3.jpg"><img class="image" src="images/CoLBeRT_green3_small.jpg"></a>
+<a href="images/fullres/CoLBeRT_green3.JPG"><img class="image" src="images/CoLBeRT_green3_small.jpg"></a>
 </div>
 <p> The system has three lasers, blue, green and purple. The green is shown. Photo by Elizabeth Kane.</p>
 
