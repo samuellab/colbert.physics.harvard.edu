@@ -30,7 +30,7 @@ Lenses and mirrors are required to shine laser light onto the digital micromirro
 
 <hr class="space">
 <div class="image">
-<img class="image" src="images/segmentedworm.jpg">
+<a href="images/segmented_worm.jpg"><img class="image" src="images/segmented_worm.jpg" width="450"></a>
 </div>
 <p><a href="code.php" target="_blank">MindControl</a> software segments the worm into 100 sectors.</p> 
 <hr class="space">	
