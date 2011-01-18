@@ -4,6 +4,11 @@
 ?>
 <div id="mainpanel" class ="span-23 append-1">
 
+<h2>Harvard</h2>
+<ul>
+<li>Steve Bradt, <a href="http://news.harvard.edu/gazette/story/2011/01/light-touch/" target="_blank">Light touch: Using beam of light, scientists commandeer worm’s nervous system</a> <i>Harvad Gazette</i>, 18 January 2011.</li>
+</ul>
+
 <h2>In the popular press</h2>
 <ul>
 <li>Laura Sanders, <a href="http://www.sciencenews.org/view/generic/id/68860/description/Making_a_worm_do_more_than_squirm#video" target="_blank">Making a worm do more than squirm</a> <i>Science News</i> 16 January 2011.</li>
