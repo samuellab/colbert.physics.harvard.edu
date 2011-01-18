@@ -18,10 +18,10 @@
 
 <h2>Around the web</h2>
 <ul>
-<li>Slashdot, <a href="http://science.slashdot.org/story/11/01/16/2124210/Remote-Control-Worms-With-Laser-Light-Using-FOSS" target="_blank">Remote Control Worms With Laser Light Using FOSS</a></li>
 <li>Sam Sheffer, <a href="http://www.engadget.com/2011/01/18/harvard-university-controls-worm-with-laser-we-wait-for-choreog/" target="_break">Harvard University controls worm wtih laser, we wait for choreagraphed dance moves (video)</a>, <i>Engadget</i></li>
 <li>Andrew Moseman, <a href="http://blogs.discovermagazine.com/80beats/2011/01/18/zapping-worm-brains-with-lasers-reveals-the-duty-of-each-neuron/" target=
 "_blank">Zapping Worm Brains With Lasers Reveals the Duty of Each Neuron</a>, <i>Discover Magazine</i>.</li>
+<li>Stephen Sparkman, <a href="http://www.newsy.com/videos/remote-for-worms-named-after-stephen-colbert" target="_blank">Remote for Worms Named After Stephen Colbert [ VIDEO ]</a>, <i>Newsy</i>. 
 </ul>
 </div>
 <?php
