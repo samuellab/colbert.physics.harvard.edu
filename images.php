@@ -1,5 +1,5 @@
 <?php
-	$title="Code";
+	$title="Images";
 	include("header.inc");
 ?>
 <div id="mainpanel" class ="span-16 append-1">
