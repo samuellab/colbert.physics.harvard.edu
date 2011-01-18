@@ -35,9 +35,11 @@
 <h4 class="nav"><a href="code.php">Code</a></h4>
 <h4 class="nav"><a href="links.php">Links</a></h4>
 <h4 class="nav"><a href="publications.php">Publications</a></h4>
-<h4 class="nav right"><a href="http://www.harvard.edu">Harvard</a></h4>
+<h4 class="nav"><a href="press.php">Press</a></h4>
 
-<h4 class="nav right"><a href="http://worms.physics.harvard.edu/">Samuel Lab</a></h4>
+<h4 class="nav right"><a href="http://www.harvard.edu" target="_blank">Harvard</a></h4>
+
+<h4 class="nav right"><a href="http://worms.physics.harvard.edu/"target="_blank">Samuel Lab</a></h4>
 <hr id="bottomheader" />
 
 
