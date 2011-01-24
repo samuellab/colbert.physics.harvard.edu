@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	$title="Press";
 	include("header.inc");
 ?>
@@ -6,7 +6,8 @@
 
 <h2>Harvard</h2>
 <ul>
-<li>Steve Bradt, <a href="http://news.harvard.edu/gazette/story/2011/01/light-touch/" target="_blank">Light touch: Using beam of light, scientists commandeer worm�s nervous system</a> <i>Harvad Gazette</i>, 18 January 2011.</li>
+<li>Steve Bradt, <a href="http://news.harvard.edu/gazette/story/2011/01/light-touch/" target="_blank">Light touch: Using beam of light, scientists commandeer worm's nervous system</a> <i>Harvad Gazette</i>, 18 January 2011.</li>
+<li>Julie R. Barzilay, <a href="http://www.thecrimson.com/article/2011/1/19/leifer-neurons-worms-elegans/" target="_blank">Harvard Scientists Control Minds of Worms</a>, <i>The Harvard Crimson</i> 19 January 2011.</li>
 </ul>
 
 <h2>In the popular press</h2>
@@ -23,7 +24,15 @@
 <li>Andrew Moseman, <a href="http://blogs.discovermagazine.com/80beats/2011/01/18/zapping-worm-brains-with-lasers-reveals-the-duty-of-each-neuron/" target=
 "_blank">Zapping Worm Brains With Lasers Reveals the Duty of Each Neuron</a>, <i>Discover Magazine</i>.</li>
 <li>Stephen Sparkman, <a href="http://www.newsy.com/videos/remote-for-worms-named-after-stephen-colbert" target="_blank">Remote for Worms Named After Stephen Colbert [ VIDEO ]</a>, <i>Newsy</i>. 
+<li>Esther Inglis-Arkell, <a href="http://io9.com/5740419/scientists-engineer-a-light+controlled-worm" target="_blank"> Scientists engineer a light-controlled worm</a>, <em>io9</em></li>
+
 </ul>
+
+<h2>Around the world</h2>
+<ul>
+<li>אסף שטול-טראורינג, <a href="http://www.haaretz.co.il/hasite/spages/1210898.html" target="_blank">ט בתנועות תולעת באמצעות לייזר,אסף שטול-טראורינ</a>, <em>Ha'aretz</em>, 21 January 2011 (Hebrew).</li>
+</ul>
+
 </div>
 <?php
 include("footer.inc");
