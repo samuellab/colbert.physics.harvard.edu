@@ -25,7 +25,9 @@
 "_blank">Zapping Worm Brains With Lasers Reveals the Duty of Each Neuron</a>, <i>Discover Magazine</i>.</li>
 <li>Stephen Sparkman, <a href="http://www.newsy.com/videos/remote-for-worms-named-after-stephen-colbert" target="_blank">Remote for Worms Named After Stephen Colbert [ VIDEO ]</a>, <i>Newsy</i>. 
 <li>Esther Inglis-Arkell, <a href="http://io9.com/5740419/scientists-engineer-a-light+controlled-worm" target="_blank"> Scientists engineer a light-controlled worm</a>, <em>io9</em></li>
-
+<li>Max Eddy, <a href="http://www.geekosystem.com/laser-worms/" target="_blank">Worm Mind Control Through Lasers</a>, <em>Geekosystem</em>,21 January 2011.</li>
+<li>Max Eddy, <a href="http://www.geekosystem.com/laser-worms/" target="_blank">Worm Mind Control Through Lasers</a>, <em>Geekosystem</em>,21 January 2011.</li>
+<li>Aaron Saenz, <a href="http://singularityhub.com/2011/01/26/harvard-controls-the-minds-of-worms-with-lasers-video/http://singularityhub.com/2011/01/26/harvard-controls-the-minds-of-worms-with-lasers-video/" target="_blank">Harvard Controls The Minds of Worms…With Lasers! (video)</a> <em>Singularity Hub</em>, 26 January 2011</li>
 </ul>
 
 <h2>Around the world</h2>
